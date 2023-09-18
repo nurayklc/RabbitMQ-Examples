@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Nuray\\MyProjects\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\RabbitMQ.Publisher.csproj": {}
+    "E:\\Nuray\\MyProjects\\RabbitMQ-Examples\\RabbitMQ-Introduction\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\RabbitMQ.Publisher.csproj": {}
   },
   "projects": {
-    "E:\\Nuray\\MyProjects\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\RabbitMQ.Publisher.csproj": {
+    "E:\\Nuray\\MyProjects\\RabbitMQ-Examples\\RabbitMQ-Introduction\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\RabbitMQ.Publisher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Nuray\\MyProjects\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\RabbitMQ.Publisher.csproj",
+        "projectUniqueName": "E:\\Nuray\\MyProjects\\RabbitMQ-Examples\\RabbitMQ-Introduction\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\RabbitMQ.Publisher.csproj",
         "projectName": "RabbitMQ.Publisher",
-        "projectPath": "E:\\Nuray\\MyProjects\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\RabbitMQ.Publisher.csproj",
+        "projectPath": "E:\\Nuray\\MyProjects\\RabbitMQ-Examples\\RabbitMQ-Introduction\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\RabbitMQ.Publisher.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Nuray\\MyProjects\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\obj\\",
+        "outputPath": "E:\\Nuray\\MyProjects\\RabbitMQ-Examples\\RabbitMQ-Introduction\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

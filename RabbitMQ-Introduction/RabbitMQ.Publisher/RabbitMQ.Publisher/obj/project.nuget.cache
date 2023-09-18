@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IvmICrbiaTi/uXFdRX5iEvchfEPf14jG5PMC/RDiRjfd8rbSB0IPNXaopsOU/IwkWIslkT0GQu0jgw0acuER+Q==",
+  "dgSpecHash": "19KSxggQPWFgabTFxnUnDO5A+8CW/w1HJGYaj+GpZEXeZc4Ng9wrjd98+vSJMfiHVTAanYbjGrEsyA106AaURg==",
   "success": true,
-  "projectFilePath": "E:\\Nuray\\MyProjects\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\RabbitMQ.Publisher.csproj",
+  "projectFilePath": "E:\\Nuray\\MyProjects\\RabbitMQ-Examples\\RabbitMQ-Introduction\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\RabbitMQ.Publisher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
